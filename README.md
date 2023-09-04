@@ -8,7 +8,7 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 
 ## Skills and Experience 
 
-![Python]([/images/icon.png](https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Python-icon.png)) Python
+![Python](https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Python-icon.png) Python
 
 Skills: Python/ C++/ PHP / HTML / CSS / SQL server 
 
