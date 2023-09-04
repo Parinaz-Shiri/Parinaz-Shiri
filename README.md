@@ -16,9 +16,9 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 
 ## Examples of Work
 
-<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Recording%202023-09-04%20at%203.35.01%20PM.gif" width="256" />
+<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Recording%202023-09-04%20at%203.35.01%20PM.gif" width="300" />
 
 
-
+## Contact Information
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/parinaz-shiri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/parinaz-shiri-881834228/)  
 
