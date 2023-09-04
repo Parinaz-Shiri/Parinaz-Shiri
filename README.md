@@ -9,7 +9,7 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 *  C++ 
 *  PHP
 *  C# 
-*  :EMOJICODE:globe_with_meridians: HTML, CSS, JS
+*  :globe_with_meridians: HTML, CSS, JS
 *  WordPress
 
 - 🌱 I’m currently learning Machine Learning & Tensorflow
