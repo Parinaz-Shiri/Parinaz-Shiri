@@ -16,13 +16,13 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 
 ## Examples of Work
 
-I developed a website for an agricultural company named Esendagli located in Cyprus to show their products and machinery. 
-Link to the website :arrow_right: [link]([http://example.com](https://esendagli.com/)
+<p> I developed a website for an agricultural company named Esendagli located in Cyprus to show their products and machinery. </p> 
+<p> Link to the website :arrow_right: [link](https://esendagli.com/)</p>
 **Home page Preview:** 
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Recording%202023-09-04%20at%203.35.01%20PM.gif" width="300" />
 
-I developed a website for a carpet wash located in Iran. This website has some information about their services. 
-Link to the website :arrow_right: [link]([http://example.com]([https://esendagli.com/](https://mooud-carpetwash.ir/)
+<p> I developed a website for a carpet wash located in Iran. This website has some information about their services. </p> 
+<p> Link to the website :arrow_right: [link](https://mooud-carpetwash.ir/)</p>
 **Home page Preview:** 
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Recording%202023-09-04%20at%204.06.59%20PM.gif" width="300" />
 
