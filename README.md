@@ -1,5 +1,6 @@
 ### Hi there 👋, Parinaz Shiri
 #### Software Developer | Back-end developer 
+![Software Developer | Back-end developer](https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Copy%20of%20Blue%20Modern%20Technology%20LinkedIn%20Banner.png)
 
 My name is Parinaz Shiri and I am a Software Developer. I have more than one year of experience in professional work. 
 
