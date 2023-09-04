@@ -29,6 +29,19 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 <p> </p>
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Recording%202023-09-04%20at%204.06.59%20PM.gif" width="300" />
 
+## Examples of University Projects 
+
+<h3> 1-Chatbot</h3>
+<p> I developed a chatbot by using Python for a sample sports complex in order to answer mundane questions regarding programs and working hours.</p> 
+<b> Photos of the Chatbot: </b>
+<p> </p>
+<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.06.png" width="250"/> 
+<img src="[https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.06.png](https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.40.png)" width="250"/> 
+<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.30.39.png" width="250" /> 
+<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.36.31.png" width="250" /> 
+
+<h3> 2-Warehouse and Ordering Application </h3>
+
 
 ## Contact Information
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/parinaz-shiri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/parinaz-shiri-881834228/)  
