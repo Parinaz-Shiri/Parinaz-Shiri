@@ -15,12 +15,13 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 - 🌱 I’m currently learning Machine Learning & Tensorflow
 
 ## Examples of Work
-
-<p> I developed a website for an agricultural company named Esendagli located in Cyprus to show their products and machinery.
-Link to the website :arrow_right: https://esendagli.com/ </p>
+# 1-Agriculture Website
+<p> I developed a website for an agricultural company named Esendagli located in Cyprus to show their products and machinery. </p> 
+<p> Link to the website :arrow_right: https://esendagli.com/ </p>
 <b> Home Page Preview: </b> <br> 
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Recording%202023-09-04%20at%203.35.01%20PM.gif" width="300" />
 
+# 2-Carpet Wash Website
 <p> I developed a website for a carpet wash located in Iran. This website has some information about their services. </p> 
 <p> Link to the website :arrow_right: https://mooud-carpetwash.ir/ </p>
 <b> Home page Preview: </b> <br> 
