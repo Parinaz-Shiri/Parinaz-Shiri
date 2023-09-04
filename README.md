@@ -5,11 +5,11 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 
 ## Skills and Experience 
 
-*  Python
+*  💻 Python
 *  C++ 
 *  PHP
 *  C# 
-*  💻 HTML, CSS, JS
+*  :EMOJICODE:globe_with_meridians: HTML, CSS, JS
 *  WordPress
 
 - 🌱 I’m currently learning Machine Learning & Tensorflow
