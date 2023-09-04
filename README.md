@@ -6,9 +6,9 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 
 [![parinaz Shiri’s GitHub stats](https://github-readme-stats.vercel.app/api?username=parinaz-shiri)](https://github.com/parinaz-shiri/github-readme-stats)
 
-##Skills and Experience 
+## Skills and Experience 
 
-![github](/images/icon.png) Python
+![Python]([/images/icon.png](https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Python-icon.png)) Python
 
 Skills: Python/ C++/ PHP / HTML / CSS / SQL server 
 
