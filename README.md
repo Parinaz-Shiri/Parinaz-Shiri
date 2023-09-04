@@ -16,7 +16,7 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 
 ## Examples of Work
 
-<img src=“https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Recording%202023-09-04%20at%203.35.01%20PM.gif” width=“256”/>
+<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Recording%202023-09-04%20at%203.35.01%20PM.gif" width="256" />
 
 
 
