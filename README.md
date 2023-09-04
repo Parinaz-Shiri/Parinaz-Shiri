@@ -1,13 +1,14 @@
-### Hi there 👋, Parinaz Shiri
-#### Software Developer | Back-end developer 
 ![Software Developer | Back-end developer ](https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Copy%20of%20Blue%20Modern%20Technology%20LinkedIn%20Banner.png)
 
+### Hi there 👋, I'm Parinaz Shiri
 My name is Parinaz Shiri and I am a Software Developer. I have more than one year of experience in professional work. 
 
 
 [![parinaz Shiri’s GitHub stats](https://github-readme-stats.vercel.app/api?username=parinaz-shiri)](https://github.com/parinaz-shiri/github-readme-stats)
 
+##Skills and Experience 
 
+![github](/images/icon.png) Python
 
 Skills: Python/ C++/ PHP / HTML / CSS / SQL server 
 
