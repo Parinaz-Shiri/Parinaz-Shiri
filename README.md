@@ -10,9 +10,12 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 
 ![Python](https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Python-icon.png) 
 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Python-icon.png)' alt='Python' height='40'>](https://github.com/parinaz-shiri) Python
+*  Python
+*  C++ 
+*  PHP
+*  💻 HTML, CSS, JS
+*  
 
-Skills: Python/ C++/ PHP / HTML / CSS / SQL server 
 
 - 🌱 I’m currently learning Machine Learning & Tensorflow 
 
