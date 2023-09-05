@@ -37,13 +37,11 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 <p> </p>
 
 <div style="align-items: center; float: left;">
-<img class-"image" src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.06.png" width="300" /> 
-<img class-"image" src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.40.png" width="300" /> 
-<img class-"image" src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.30.39.png" width="300" /> 
-<img class-"image" src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.36.31.png" width="300" /> 
+<img class="image" src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.06.png" width="300" /> 
+<img class="image" src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.40.png" width="300" /> 
+<img class="image" src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.30.39.png" width="300" /> 
+<img class="image" src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.36.31.png" width="300" /> 
     </div>
-
-
 
 <h3> 2-Warehouse and Ordering Application </h3>
 
