@@ -52,7 +52,7 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 <style> 
 .image{
   float: left; 
-  padding: 25;  
+  padding: '10px';  
 }
 
 
