@@ -37,10 +37,10 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 <p> </p>
 
 <div style="align-items: center; float: left;">
-<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.06.png" width="300" style="float: left; padding: 5px;" /> 
-<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.40.png" width="300" style="float: left; padding: 5px;" /> 
-<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.30.39.png" width="300" style="float: left; padding: 5px;"  /> 
-<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.36.31.png" width="300" style="float: left; padding: 5px;"  /> 
+<img class-"image" src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.06.png" width="300" /> 
+<img class-"image" src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.40.png" width="300" /> 
+<img class-"image" src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.30.39.png" width="300" /> 
+<img class-"image" src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.36.31.png" width="300" /> 
     </div>
 
 
@@ -51,3 +51,11 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 ## Contact Information
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/parinaz-shiri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/parinaz-shiri-881834228/)  
 
+<style> 
+.image{
+  float: left; 
+  padding: 25px ;  
+}
+
+
+</style>
