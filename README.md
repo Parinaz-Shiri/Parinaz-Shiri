@@ -36,7 +36,7 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 <b> Photos of the Chatbot: </b>
 <p> </p>
 
-<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.06.png" width="300" style="float: left;"/> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.06.png" width="300" height="395.211" style="float: left;"/> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.40.png" width="300" style="float: left;"/> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.36.31.png" width="300" style="float: left;"/> 
     </div>
