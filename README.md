@@ -35,21 +35,22 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 <p> I developed a chatbot by using Python for a sample sports complex in order to answer mundane questions regarding programs and working hours.</p> 
 <b> Photos of the Chatbot: </b>
 <p> </p>
+<div style= "align-items: center; float: left;"> 
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.06.png" width="300" height="395.211" style="float: left;"/> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.29.40.png" width="300" style="float: left;"/> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.36.31.png" width="300" style="float: left;"/> 
-
+</div>
 
 <h3> 2-Warehouse and Ordering Application </h3>
-
 <p> I developed a warehouse and ordering application by using the C# Web Application Form. Customers should first sign up for the application by giving their information, then they can enter the application and order new or existing machines. The employers log in to the application and they can manage the warehouse by the application.</p> 
 <b> Photos of the application: </b>
 <p> </p>
+<div style= "align-items: center; float: left;"> 
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/C%23%20WebForm-2.png" width="300" style="float: left;"/> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/C%23%20WebForm-3.png" width="300" style="float: left;"/> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/C%23%20WebForm-4.png" width="300" style="float: left;"/> &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/C%23%20WebForm-1.png" width="300" style="float: left;"/>
-
+</div>
 
 ## Contact Information
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/parinaz-shiri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/parinaz-shiri-881834228/)  
