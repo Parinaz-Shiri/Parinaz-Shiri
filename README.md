@@ -20,14 +20,14 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 <p> Link to the website :arrow_right: https://esendagli.com/ </p>
 <b> Home Page Preview: </b> 
 <p> </p>
-<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Recording%202023-09-04%20at%203.35.01%20PM.gif" width="300" />
+<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Recording%202023-09-04%20at%203.35.01%20PM.gif" width="350" />
 
 <h3> 2-Carpet Wash Website </h3>
 <p> I developed a website for a carpet wash located in Iran. This website has some information about their services. </p> 
 <p> Link to the website :arrow_right: https://mooud-carpetwash.ir/ </p>
 <b> Home page Preview: </b> 
 <p> </p>
-<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Recording%202023-09-04%20at%204.06.59%20PM.gif" width="300" />
+<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Recording%202023-09-04%20at%204.06.59%20PM.gif" width="350" />
 
 ## Examples of University Projects 
 
