@@ -46,10 +46,10 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 <b> Photos of the application: </b>
 <p> </p>
 <div style= "align-items: center; float: left;"> 
-<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/C%23%20WebForm-2.png" width="400" height="250" style="float: left;"/> &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/C%23%20WebForm-3.png" width="400" height="250" style="float: left;"/> &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/C%23%20WebForm-4.png" width="400" height="250" style="float: left;"/> &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/C%23%20WebForm-1.png" width="400" height="250" style="float: left;"/>
+<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/C%23%20WebForm-2.png" width="300" height="250" style="float: left;"/> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/C%23%20WebForm-3.png" width="300" height="250" style="float: left;"/> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/C%23%20WebForm-4.png" width="300" height="250" style="float: left;"/> &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/C%23%20WebForm-1.png" width="300" height="250" style="float: left;"/>
 </div>
 
 ## Contact Information
