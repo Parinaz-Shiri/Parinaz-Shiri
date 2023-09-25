@@ -8,7 +8,6 @@ My name is Parinaz Shiri and I am a Software Developer. I have more than one yea
 *  Python
 *  C++ 
 *  PHP
-*  C# 
 *  HTML, CSS, JS
 *  WordPress
 
