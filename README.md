@@ -1,7 +1,7 @@
 ![Software Developer | Back-end developer ](https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Parinaz-Shiri-Banner.png)
 
 ### Hi there 👋, I'm Parinaz Shiri
-I am a Software Developer. I have a passion for learning and exploring the potential of new technologies, which motivated me to pursue my master's. Currently, I am enrolled in the Master of Computer Science program at Memorial University of Newfoundland. I aim to conceptualize and implement software that will assist industries and people in performing their tasks more efficiently and accurately. 
+I am a Full-Stack Developer. I have a passion for learning and exploring the potential of new technologies, which motivated me to pursue my master's. Currently, I am enrolled in the Master of Computer Science program at Memorial University of Newfoundland. I aim to conceptualize and implement websites and software that will assist industries and people in performing their tasks more efficiently and accurately. 
 
 
 ## Skills and Experience 
