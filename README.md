@@ -7,10 +7,12 @@ I am a Software Developer. I have a passion for learning and exploring the poten
 ## Skills and Experience 
 
 *  Python
-*  C++ 
+*  C++
+*  JavaScript 
 *  PHP
+*  HTML, CSS
 *  SQL
-*  HTML, CSS, JavaScript
+*  C# Web Application Form
 *  WordPress
 
 - 🌱 I’m currently working on Machine Learning & Tensorflow
