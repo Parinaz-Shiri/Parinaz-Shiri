@@ -1,7 +1,7 @@
 ![Software Developer | Back-end developer ](https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Copy%20of%20Blue%20Modern%20Technology%20LinkedIn%20Banner.png)
 
 ### Hi there 👋, I'm Parinaz Shiri
-I am a Software Developer with over a year of professional experience. I have a passion for learning and exploring the potential of new technologies, which motivated me to pursue my master's. Currently, I am enrolled in the Master of Computer Science program at Memorial University of Newfoundland. I aim to conceptualize and implement software that will assist industries and people in performing their tasks more efficiently and accurately. 
+I am a Software Developer. I have a passion for learning and exploring the potential of new technologies, which motivated me to pursue my master's. Currently, I am enrolled in the Master of Computer Science program at Memorial University of Newfoundland. I aim to conceptualize and implement software that will assist industries and people in performing their tasks more efficiently and accurately. 
 
 
 ## Skills and Experience 
