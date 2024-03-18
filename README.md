@@ -13,7 +13,7 @@ I am a Software Developer. I have a passion for learning and exploring the poten
 *  HTML, CSS, JavaScript
 *  WordPress
 
-- 🌱 I’m currently learning Machine Learning & Tensorflow
+- 🌱 I’m currently working on Machine Learning & Tensorflow
 
 ## Examples of Work
 <h3> 1-Agriculture Website </h3>
