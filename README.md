@@ -15,7 +15,7 @@ I am a Full-Stack Developer. I have a passion for learning and exploring the pot
 *  C# Web Application Form
 *  WordPress
 
-- 🌱 I’m currently working on Artificial Intelligence Algorithms & Tensorflow
+- 🌱 I’m currently working on Artificial Intelligence Algorithms & Tensorflow. 
 
 ## Examples of Work
 <h3> 1-Agriculture Website </h3>
