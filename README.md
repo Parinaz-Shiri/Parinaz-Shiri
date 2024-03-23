@@ -32,7 +32,7 @@ I am a Full-Stack Developer. I have a passion for learning and exploring the pot
 <p> </p>
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Recording%202023-09-04%20at%204.06.59%20PM.gif" width="350" />
 
-## Examples of University Projects 
+## Runtime Snapshots: Demonstrating the Repositories Performance
 
 <h3> 1-Chatbot</h3>
 <p> I developed a chatbot by using Python for a sample sports complex in order to answer mundane questions regarding programs and working hours.</p> 
