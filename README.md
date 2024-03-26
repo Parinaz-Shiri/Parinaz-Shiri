@@ -17,7 +17,7 @@ I am a Full-Stack Developer. I have a passion for learning and exploring the pot
 
 - 🌱 I’m currently working on Artificial Intelligence Algorithms & Tensorflow. 
 
-## Examples of Work
+## Web Development Showcase
 <h3> 1-Agriculture Website </h3>
 <p> I developed a website for an agricultural company named Esendagli located in Cyprus to show their products and machinery. </p> 
 <p> Link to the website :arrow_right: https://esendagli.com/ </p>
@@ -32,9 +32,9 @@ I am a Full-Stack Developer. I have a passion for learning and exploring the pot
 <p> </p>
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Recording%202023-09-04%20at%204.06.59%20PM.gif" width="350" />
 
-## Runtime Snapshots: Demonstrating the Repositories Performance
+## Runtime Snapshots: Demonstrating some of the Repositories Performance
 
-<h3> 1-Chatbot</h3>
+<h3> 1-Guidebot</h3>
 <p> I developed a chatbot by using Python for a sample sports complex in order to answer mundane questions regarding programs and working hours.</p> 
 <b> Photos of the Chatbot: </b>
 <p> </p>
