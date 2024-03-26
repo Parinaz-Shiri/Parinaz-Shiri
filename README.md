@@ -44,7 +44,7 @@ I am a Full-Stack Developer. I have a passion for learning and exploring the pot
 <img src="https://github.com/Parinaz-Shiri/Parinaz-Shiri/blob/main/Screen%20Shot%201401-04-06%20at%2000.36.31.png" width="300" style="float: left;"/> 
 </div>
 
-<h3> 2-Warehouse and Ordering Application </h3>
+<h3> 2-Warehouse and Ordering Application Form </h3>
 <p> I developed a warehouse and ordering application by using the C# Web Application Form. Customers should first sign up for the application by giving their information, then they can enter the application and order new or existing machines. The employers log in to the application and they can manage the warehouse by the application.</p> 
 <b> Photos of the application: </b>
 <p> </p>
