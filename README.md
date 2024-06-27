@@ -1,8 +1,7 @@
 <img src=" Parinaz-Shiri-Banner.png">
 
 ### Hi there 👋, I'm Parinaz Shiri
-I am a Full-Stack Developer. I have a passion for learning and exploring the potential of new technologies, which motivated me to pursue my master's. Currently, I am enrolled in the Master of Computer Science program at Memorial University of Newfoundland. I aim to conceptualize and implement websites and software that will assist industries and people in performing their tasks more efficiently and accurately. 
-
+I am a Full-Stack Developer. I have a passion for learning and exploring the potential of new technologies, which motivated me to pursue my master's. Currently, I am enrolled in the Master of Computer Science program at Memorial University of Newfoundland. I aim to expand my professional skills and solve real-life problems. 
 
 ## Skills and Experience 
 
@@ -15,7 +14,7 @@ I am a Full-Stack Developer. I have a passion for learning and exploring the pot
 *  C# Web Application Form
 *  WordPress
 
-- 🌱 I’m currently working on Artificial Intelligence Algorithms & Tensorflow. 
+- 🌱 I’m currently working on Artificial Intelligence & Machne Learning Algorithms. 
 
 ## Web Development Showcase
 <h3> 1-Agriculture Website </h3>
