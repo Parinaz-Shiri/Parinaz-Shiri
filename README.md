@@ -14,8 +14,6 @@ I have a passion for learning and exploring the potential of new technologies, w
 *  C# Web Application Form
 *  WordPress
 
-- 🌱 I’m currently working on Artificial Intelligence & Machine Learning Algorithms. 
-
 ## Web Development Showcase
 <h3> 1-Agriculture Website </h3>
 <p> I developed a website for an agricultural company named Esendagli located in Cyprus to show their products and machinery. </p> 
